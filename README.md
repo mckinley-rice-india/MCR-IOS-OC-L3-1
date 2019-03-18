@@ -1,4 +1,15 @@
-# Technical test for iOS
+# Mckinley & Rice NodeJs Coding Challenge
+
+> Welcome to the Mckinley & Rice Coding Challenge!
+
+
+## Overview
+
+To complete this challenge, you will need to write a  web app, and provide us the source files to be built.
+
+This challenge is expected to take about 3-4 hours.
+
+# iOS Developer Coding Challenge
 
 This test app consists of a list of users, and their music albums and To-Do lists.
 
