@@ -1,4 +1,4 @@
-# Mckinley & Rice NodeJs Coding Challenge
+# Mckinley & Rice Developer Coding Challenge
 
 > Welcome to the Mckinley & Rice Coding Challenge!
 
